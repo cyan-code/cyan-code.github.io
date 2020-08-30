@@ -1,0 +1,15 @@
+th, td {
+  text-align: center;
+}
+#product-table {
+  table-layout: fixed;
+}
+.products-tbody input, .products-tbody .btn-edit {
+  display: none;
+}
+.edit span, .edit .btn-display {
+  display: none;
+}
+.edit input, .edit .btn-edit {
+  display: inline-block;
+}

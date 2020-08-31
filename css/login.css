@@ -1,0 +1,19 @@
+body {
+  background-color: #ddd;
+}
+form {
+  width: 200px;
+  height: 280px;
+  margin: auto;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+form h4 {
+  text-align: center;
+}
